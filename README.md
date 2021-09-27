@@ -1,1 +1,1 @@
-# react-native-the-pratica-guide
+https://www.udemy.com/course/react-native-the-practical-guide/
